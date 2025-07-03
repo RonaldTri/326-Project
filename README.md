@@ -48,10 +48,8 @@ To compile and run this project, ensure you have `gcc` and `make` installed on a
 ## 📸 Screenshots / Demos
 
 ![Screenshot 1](Screenshot from 2025-05-04 17-34-02.png)
-*A screenshot showing the game in action.*
 
 ![Screenshot 2](Screenshot from 2025-05-04 17-34-45.png)
-*Another screenshot demonstrating a key feature (e.g., semaphores in action, or the rogue picking a lock).*
 
 ## 🤝 Contributions
 
